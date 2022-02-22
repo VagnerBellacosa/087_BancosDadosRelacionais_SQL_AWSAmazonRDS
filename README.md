@@ -11,3 +11,5 @@ ESPECIALISTA
 #### Cassiano Peres
 Instrutor, Digital Innovation One
  
+
+https://web.dio.me/lab/bancos-de-dados-relacionais-sql-na-aws-com-amazon-rds/learning/e89d52c7-480c-46a6-9cb5-b6812db04748
